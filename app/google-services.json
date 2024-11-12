@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890072013240",
+    "project_id": "desa-11495",
+    "storage_bucket": "desa-11495.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890072013240:android:3aefc30a753019960c174d",
+        "android_client_info": {
+          "package_name": "br.unisanta.desafio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ohR2gDq_PofOGwZjSTBf_9JTYhfY-JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
